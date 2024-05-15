@@ -1236,95 +1236,120 @@ const Home = (props) => {
         </div>
         <div id="about" className="home-about">
           <h1 className="home-text243">Pourquoi ce projet ?</h1>
-          <span>
+          <div className="home-container45">
             <span>
-              Ce site a été développé dans le cadre d&apos;une série
-              d&apos;animation autour des conflits internationaux et de la
-              désinformation proposées par
-              <span
-                dangerouslySetInnerHTML={{
-                  __html: ' ',
-                }}
-              />
+              <span>
+                Ce site a été développé dans le cadre d&apos;une série
+                d&apos;animation autour des conflits internationaux et de la
+                désinformation proposées par
+                <span
+                  dangerouslySetInnerHTML={{
+                    __html: ' ',
+                  }}
+                />
+              </span>
+              <a
+                href="https://www.facebook.com/justicepaix"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="home-link38"
+              >
+                la branche Bruxelloise de l&apos;ONG Justice &amp; Paix
+              </a>
+              <span className="home-text246">.</span>
+              <br></br>
             </span>
-            <a
-              href="https://www.facebook.com/justicepaix"
-              target="_blank"
-              rel="noreferrer noopener"
-              className="home-link38"
-            >
-              la branche Bruxelloise de l&apos;ONG Justice &amp; Paix
-            </a>
-            <span>.</span>
-            <br></br>
-            <br></br>
             <span>
-              Les différentes ressources présentées ci-dessus ne prétendent en
-              aucun cas offrir une vision exhaustive et objective de
-              l&apos;ensemble des initiatives contre la désinformation à travers
-              le monde. 
+              <span>
+                Les différentes ressources présentées ci-dessus ne prétendent en
+                aucun cas offrir une vision exhaustive et objective de
+                l&apos;ensemble des initiatives contre la désinformation à
+                travers le monde.
+              </span>
+              <br></br>
+              <span>
+                Cette plateforme est simplement le reflet de la volonté
+                d&apos;un citoyen bénévole de proposer différentes ressources
+                pertinentes aux intéressés. 
+              </span>
+              <br></br>
+              <span>
+                Pour un travail similaire et plus académique, je vous renvoie
+                vers
+                <span
+                  dangerouslySetInnerHTML={{
+                    __html: ' ',
+                  }}
+                />
+              </span>
+              <span className="home-text254">l&apos;excellent </span>
+              <a href="#update_dem" className="home-link39">
+                upgrade democracy
+              </a>
+              <span className="home-text255">.</span>
+              <br></br>
             </span>
-            <br></br>
             <span>
-              Cette plateforme est simplement le reflet de la volonté d&apos;un
-              citoyen bénévole de proposer différentes ressources pertinentes
-              aux intéressés. 
+              <span>
+                <span
+                  dangerouslySetInnerHTML={{
+                    __html: ' ',
+                  }}
+                />
+              </span>
+              <span>
+                Ce site sera mis à jour au gré de mes trouvailles et recherches.
+                Pour toutes corrections, suggestion ou demandes vous pouvez me
+                contacter à 
+              </span>
+              <a
+                href="mailto:demystificator@hworld.one?subject="
+                className="home-link40"
+              >
+                demystificator@hworld.one
+              </a>
+              <span className="home-text260">.</span>
+              <br></br>
             </span>
-            <br></br>
             <span>
-              Pour un travail similaire et plus académique, je vous renvoie vers
-              l&apos;excellent 
+              <span>
+                En espérant vous avoir offert de quoi affuter votre esprit
+                critique en ces temps bien gris,
+              </span>
+              <span> </span>
+              <span>
+                je vous laisse sur
+                <span
+                  dangerouslySetInnerHTML={{
+                    __html: ' ',
+                  }}
+                />
+              </span>
+              <span className="home-text266">ces </span>
+              <a
+                href="https://youtu.be/qN1ZaFtIBuI?t=1803"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="home-link41"
+              >
+                belles paroles de Nassim Haram
+              </a>
+              <a
+                href="https://youtu.be/qN1ZaFtIBuI?t=1803"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="home-link42"
+              >
+                ein
+              </a>
+              <span>.</span>
+              <br></br>
+              <br></br>
+              <br></br>
+              <span className="home-text271">Thielen Oscar</span>
+              <br></br>
             </span>
-            <a href="#update_dem" className="home-link39">
-              upgrade democracy
-            </a>
-            <span className="home-text254">.</span>
-            <br></br>
-            <br></br>
-            <span>
-              <span
-                dangerouslySetInnerHTML={{
-                  __html: ' ',
-                }}
-              />
-            </span>
-            <br></br>
-            <span>
-              Ce site sera mis à jour au gré de mes trouvailles et recherches.
-              Pour toutes corrections, suggestion ou demandes vous pouvez me
-              contacter à 
-            </span>
-            <a
-              href="mailto:demystificator@hworld.one?subject=demystificator@hworld.one"
-              className="home-link40"
-            >
-              demystificator@hworld.one
-            </a>
-            <br></br>
-            <br></br>
-            <br></br>
-            <span>
-              En espérant vous avoir offert de quoi affuter votre esprit
-              critique en ces temps bien gris,
-            </span>
-            <span> </span>
-            <br></br>
-            <span>je vous laisse sur ces </span>
-            <a
-              href="https://youtu.be/qN1ZaFtIBuI?t=1801"
-              target="_blank"
-              rel="noreferrer noopener"
-              className="home-link41"
-            >
-              belles paroles de Nassim Haram
-            </a>
-            <span className="home-text267">ein.</span>
-            <br></br>
-            <br></br>
-            <br></br>
-            <span>Thielen Oscar</span>
-            <br></br>
-          </span>
+          </div>
         </div>
         <footer className="home-footer">
           <div className="home-content">
@@ -3087,7 +3112,31 @@ const Home = (props) => {
             font-style: normal;
             font-weight: 400;
           }
+          .home-container45 {
+            gap: var(--dl-space-space-oneandhalfunits);
+            flex: 0 0 auto;
+            width: auto;
+            height: auto;
+            display: flex;
+            align-items: flex-start;
+            flex-direction: column;
+          }
           .home-link38 {
+            text-decoration: underline;
+          }
+          .home-link39 {
+            text-decoration: underline;
+          }
+          .home-link40 {
+            text-decoration: underline;
+          }
+          .home-text266 {
+            text-decoration: underline;
+          }
+          .home-link41 {
+            text-decoration: underline;
+          }
+          .home-link42 {
             text-decoration: underline;
           }
           .home-footer {
@@ -3203,23 +3252,48 @@ const Home = (props) => {
               gap: var(--dl-space-space-fourunits);
               height: auto;
               margin-bottom: 0px;
+              animation-name: none;
               padding-bottom: 120px;
+              animation-delay: 0s;
+              animation-duration: 300ms;
+              animation-direction: normal;
+              animation-iteration-count: 1;
+              animation-timing-function: ease;
             }
             .home-text243 {
               font-size: 32px;
+              font-style: normal;
+              font-weight: 400;
+            }
+            .home-container45 {
+              width: auto;
+              height: auto;
+              align-self: flex-start;
             }
             .home-link38 {
-              text-decoration: underline;
+              text-decoration: inherit;
               background-color: rgb(229, 254, 88);
             }
-            .home-link39 {
-              text-decoration: underline;
-              background-color: rgb(229, 254, 88);
+            .home-text246 {
+              text-decoration: inherit;
             }
             .home-text254 {
+              color: var(--dl-color-gray-black);
+            }
+            .home-link39 {
+              color: var(--dl-color-gray-black);
+              text-decoration: underline;
               background-color: rgb(229, 254, 88);
             }
+            .home-text255 {
+              color: var(--dl-color-gray-black);
+            }
             .home-link40 {
+              color: var(--dl-color-gray-black);
+              text-decoration: underline;
+              background-color: rgb(229, 254, 88);
+            }
+            .home-text260 {
               color: var(--dl-color-gray-black);
               text-decoration: underline;
               background-color: rgb(229, 254, 88);
@@ -3228,9 +3302,12 @@ const Home = (props) => {
               text-decoration: underline;
               background-color: rgb(229, 254, 88);
             }
-            .home-text267 {
+            .home-link42 {
               text-decoration: underline;
               background-color: rgb(229, 254, 88);
+            }
+            .home-text271 {
+              text-transform: capitalize;
             }
             .home-footer {
               padding-top: var(--dl-space-space-fourunits);
