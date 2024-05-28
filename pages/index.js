@@ -572,12 +572,32 @@ const Home = (props) => {
                 <div className="home-feature-card14">
                   <div className="home-container21">
                     <a
-                      href="https://tournesol.app/entities/yt:ZxSTXnmzbvU"
+                      href="https://www.youtube.com/playlist?list=PLv1KZC6gJTFkFmZmlejLN6qyV7gvcmXwd"
                       target="_blank"
                       rel="noreferrer noopener"
                       className="home-link19"
                     >
-                      <h2 className="home-text096">
+                      <h2 className="home-text096">Blast - Rhinocéros</h2>
+                    </a>
+                    <span>
+                      La nouvelle émission de Blast de critique des médias,
+                      animée par Usul et Lumi, à retrouver 3 fois par mois.
+                      Rhinocéros se penche chaque semaine sur l&apos;évolution
+                      de la sphère médiatique et du traitement de
+                      l&apos;information à l&apos;ère des grandes chaines
+                      d&apos;opinion privées.
+                    </span>
+                  </div>
+                </div>
+                <div className="home-feature-card15">
+                  <div className="home-container22">
+                    <a
+                      href="https://tournesol.app/entities/yt:ZxSTXnmzbvU"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="home-link20"
+                    >
+                      <h2 className="home-text098">
                         Hygiène mentale - La désinformation (pourquoi autant de
                         trucs faux sur internet)
                       </h2>
@@ -597,15 +617,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card15">
-                  <div className="home-container22">
+                <div className="home-feature-card16">
+                  <div className="home-container23">
                     <a
                       href="https://www.arte.tv/fr/videos/RC-022858/fake-news/"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link20"
+                      className="home-link21"
                     >
-                      <h2 className="home-text101">Arte - Fake News</h2>
+                      <h2 className="home-text103">Arte - Fake News</h2>
                     </a>
                     <span>
                       <span>
@@ -620,15 +640,45 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card16">
-                  <div className="home-container23">
+                <div className="home-feature-card17">
+                  <div className="home-container24">
+                    <a
+                      href="https://www.youtube.com/watch?v=G7GaZX5JJes"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="home-link22"
+                    >
+                      <h2 className="home-text107">
+                        Franceinfo - L&apos;ère de la post-vérité
+                      </h2>
+                    </a>
+                    <span>
+                      <span>
+                        L&apos;ultime, et excellente, chronique de Clément
+                        Viktorovitch pour france info ou ce dernier revient sur
+                        l&apos;état du débat public à l&apos;ère de la
+                        désinformation et l&apos;indifférence à la vérité au
+                        profit de l&apos;efficacité des stratégies de
+                        communication.
+                        <span
+                          dangerouslySetInnerHTML={{
+                            __html: ' ',
+                          }}
+                        />
+                      </span>
+                      <br></br>
+                    </span>
+                  </div>
+                </div>
+                <div className="home-feature-card18">
+                  <div className="home-container25">
                     <a
                       href="https://www.youtube.com/playlist?list=PLCwXWOyIR22srEjn3YI7CqXYiIB_htCjw"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link21"
+                      className="home-link23"
                     >
-                      <h2 className="home-text105">Arte - Citizen Facts</h2>
+                      <h2 className="home-text111">Arte - Citizen Facts</h2>
                     </a>
                     <span>
                       <span>
@@ -651,15 +701,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card17">
-                  <div className="home-container24">
+                <div className="home-feature-card19">
+                  <div className="home-container26">
                     <a
                       href="https://tournesol.app/entities/yt:Z4SOI2A7WhM"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link22"
+                      className="home-link24"
                     >
-                      <h2 className="home-text111">
+                      <h2 className="home-text117">
                         Patchwork - Comment parler aux complotistes ?
                       </h2>
                     </a>
@@ -674,15 +724,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card18">
-                  <div className="home-container25">
+                <div className="home-feature-card20">
+                  <div className="home-container27">
                     <a
                       href="https://tournesol.app/entities/yt:NotAk1zhD9c"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link23"
+                      className="home-link25"
                     >
-                      <h2 className="home-text115">
+                      <h2 className="home-text121">
                         Temps présent - Fake news, une pandémie de mensonges
                       </h2>
                     </a>
@@ -696,15 +746,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card19">
-                  <div className="home-container26">
+                <div className="home-feature-card21">
+                  <div className="home-container28">
                     <a
                       href="https://www.conspiracywatch.info/les-deconspirateurs-lemission"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link24"
+                      className="home-link26"
                     >
-                      <h2 className="home-text119">
+                      <h2 className="home-text125">
                         Les Déconspirateurs - l&apos;émission
                       </h2>
                     </a>
@@ -719,15 +769,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card20">
-                  <div className="home-container27">
+                <div className="home-feature-card22">
+                  <div className="home-container29">
                     <a
                       href="https://www.conspiracywatch.info/category/radio/complorama"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link25"
+                      className="home-link27"
                     >
-                      <h2 className="home-text123">
+                      <h2 className="home-text129">
                         France info - Complotrama le podcast
                       </h2>
                     </a>
@@ -741,15 +791,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card21">
-                  <div className="home-container28">
+                <div className="home-feature-card23">
+                  <div className="home-container30">
                     <a
                       href="https://www.youtube.com/playlist?list=PLCwXWOyIR22s39iU3jz3ik5f_0GtNGnoj"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link26"
+                      className="home-link28"
                     >
-                      <h2 className="home-text127">Arte - Desintox</h2>
+                      <h2 className="home-text133">Arte - Desintox</h2>
                     </a>
                     <span>
                       <span>
@@ -760,15 +810,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card22">
-                  <div className="home-container29">
+                <div className="home-feature-card24">
+                  <div className="home-container31">
                     <a
                       href="https://www.youtube.com/watch?v=Hug0rfFC_L8"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link27"
+                      className="home-link29"
                     >
-                      <h2 className="home-text131">
+                      <h2 className="home-text137">
                         Kurzgesagt - the ultimate conspiracy debunker
                       </h2>
                     </a>
@@ -778,15 +828,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card23">
-                  <div className="home-container30">
+                <div className="home-feature-card25">
+                  <div className="home-container32">
                     <a
                       href="https://www.youtube.com/@InfoouMytho/featured"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link28"
+                      className="home-link30"
                     >
-                      <h2 className="home-text133">Info ou mytho ?</h2>
+                      <h2 className="home-text139">Info ou mytho ?</h2>
                     </a>
                     <span>
                       Info ou Mytho ?, c&apos;est la chaîne d&apos;esprit
@@ -800,18 +850,18 @@ const Home = (props) => {
                 </div>
               </div>
             </div>
-            <div className="home-container31">
-              <h2 className="home-text135"> Outils pédagogiques </h2>
-              <div className="home-container32">
-                <div className="home-feature-card24">
-                  <div className="home-container33">
+            <div className="home-container33">
+              <h2 className="home-text141"> Outils pédagogiques </h2>
+              <div className="home-container34">
+                <div className="home-feature-card26">
+                  <div className="home-container35">
                     <a
                       href="https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link29"
+                      className="home-link31"
                     >
-                      <h2 className="home-text136">Search by image</h2>
+                      <h2 className="home-text142">Search by image</h2>
                     </a>
                     <span>
                       <span>
@@ -830,15 +880,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card25">
-                  <div className="home-container34">
+                <div className="home-feature-card27">
+                  <div className="home-container36">
                     <a
                       href="https://verificationhandbook.com/"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link30"
+                      className="home-link32"
                     >
-                      <h2 className="home-text141">Verification handbook</h2>
+                      <h2 className="home-text147">Verification handbook</h2>
                     </a>
                     <span>
                       <span>
@@ -864,15 +914,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card26">
-                  <div className="home-container35">
+                <div className="home-feature-card28">
+                  <div className="home-container37">
                     <a
                       href="https://scanner.deepware.ai/"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link31"
+                      className="home-link33"
                     >
-                      <h2 className="home-text146">Deepware</h2>
+                      <h2 className="home-text152">Deepware</h2>
                     </a>
                     <span>
                       <span>
@@ -899,15 +949,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card27">
-                  <div className="home-container36">
+                <div className="home-feature-card29">
+                  <div className="home-container38">
                     <a
                       href="https://app.illuminarty.ai/"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link32"
+                      className="home-link34"
                     >
-                      <h2 className="home-text151">Illuminarty</h2>
+                      <h2 className="home-text157">Illuminarty</h2>
                     </a>
                     <span>
                       <span>
@@ -926,15 +976,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card28">
-                  <div className="home-container37">
+                <div className="home-feature-card30">
+                  <div className="home-container39">
                     <a
                       href="https://29a.ch/photo-forensics/#forensic-magnifier"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link33"
+                      className="home-link35"
                     >
-                      <h2 className="home-text155">Forensically</h2>
+                      <h2 className="home-text161">Forensically</h2>
                     </a>
                     <span>
                       <span>
@@ -958,15 +1008,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card29">
-                  <div className="home-container38">
+                <div className="home-feature-card31">
+                  <div className="home-container40">
                     <a
                       href="https://lie-detectors.org/fr/"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link34"
+                      className="home-link36"
                     >
-                      <h2 className="home-text160">Lie detector</h2>
+                      <h2 className="home-text166">Lie detector</h2>
                     </a>
                     <span>
                       <span>
@@ -992,15 +1042,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card30">
-                  <div className="home-container39">
+                <div className="home-feature-card32">
+                  <div className="home-container41">
                     <a
                       href="https://versustheinternet.com/"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link35"
+                      className="home-link37"
                     >
-                      <h2 className="home-text165">You vs the internet</h2>
+                      <h2 className="home-text171">You vs the internet</h2>
                     </a>
                     <span>
                       You VS the Internet est un outil pédagogique/jeu qui vise
@@ -1015,15 +1065,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card31">
-                  <div className="home-container40">
+                <div className="home-feature-card33">
+                  <div className="home-container42">
                     <a
                       href="https://www.csem.be/eduquer-aux-medias/productions"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link36"
+                      className="home-link38"
                     >
-                      <h2 className="home-text167">Publications du CSEM</h2>
+                      <h2 className="home-text173">Publications du CSEM</h2>
                     </a>
                     <span>
                       Le Conseil supérieur de l’éducation aux médias (fédération
@@ -1035,15 +1085,15 @@ const Home = (props) => {
                     </span>
                   </div>
                 </div>
-                <div className="home-feature-card32">
-                  <div className="home-container41">
+                <div className="home-feature-card34">
+                  <div className="home-container43">
                     <a
                       href="https://www.ritimo.org/S-informer-decrypter-participer"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link37"
+                      className="home-link39"
                     >
-                      <h2 className="home-text169">
+                      <h2 className="home-text175">
                         S&apos;informer, décrypter, participer
                       </h2>
                     </a>
@@ -1065,12 +1115,12 @@ const Home = (props) => {
                 </div>
               </div>
             </div>
-            <div className="home-container42">
-              <h2 className="home-text171"> Ouvrages </h2>
-              <div className="home-container43">
-                <div className="home-feature-card33">
-                  <div className="home-container44">
-                    <p className="home-text172">
+            <div className="home-container44">
+              <h2 className="home-text177"> Ouvrages </h2>
+              <div className="home-container45">
+                <div className="home-feature-card35">
+                  <div className="home-container46">
+                    <p className="home-text178">
                       <span>
                         Kenzo Nera, Complotisme et quête identitaire. Puf, 2023
                       </span>
@@ -1093,7 +1143,7 @@ const Home = (props) => {
                         Antoine Vitkine, Les Nouveaux Imposteurs, Paris, La
                         Martinière, 2005
                       </span>
-                      <br className="home-text183"></br>
+                      <br className="home-text189"></br>
                       <br></br>
                       <span>
                         Aurélie Ledoux, Frédérique Leichter-Flack et Philippe
@@ -1103,7 +1153,7 @@ const Home = (props) => {
                         de la peur, Rennes, Presses universitaires de Rennes (no
                         16), juin 2012
                       </span>
-                      <br className="home-text187"></br>
+                      <br className="home-text193"></br>
                       <br></br>
                       <span>
                         Emmanuel Kreis, Les puissances de l’ombre : juifs,
@@ -1111,13 +1161,13 @@ const Home = (props) => {
                         complot 
                       </span>
                       <span>dans les textes, Paris, CNRS éd, 2008</span>
-                      <br className="home-text191"></br>
+                      <br className="home-text197"></br>
                       <br></br>
                       <span>
                         Frédéric Charpier, L’obsession du complot, Paris, Bourin
                         éditeur, 2005
                       </span>
-                      <br className="home-text194"></br>
+                      <br className="home-text200"></br>
                       <br></br>
                       <span>
                         Frédéric Jameson, La totalité comme complot :
@@ -1125,20 +1175,20 @@ const Home = (props) => {
                         Paris, Prairies 
                       </span>
                       <span>ordinaires, 2007</span>
-                      <br className="home-text198"></br>
+                      <br className="home-text204"></br>
                       <br></br>
                       <span>
                         Jack Z. Bratich, Conspiracy panics: political
                         rationality and popular culture, Albany, N.Y, State
                         University of New York Press, 2008
                       </span>
-                      <br className="home-text201"></br>
+                      <br className="home-text207"></br>
                       <br></br>
                       <span>
                         Gérald Bronner, La démocratie des crédules, Paris, PUF,
                         2013
                       </span>
-                      <br className="home-text204"></br>
+                      <br className="home-text210"></br>
                       <br></br>
                       <span>
                         Laurent Bazin et Pierre-Henri Tavoillot, Tous paranos ?
@@ -1146,19 +1196,19 @@ const Home = (props) => {
                         Tour-d’Aigues, Éd. de l’Aube, 
                       </span>
                       <span>coll. “Monde en cours”, 2012</span>
-                      <br className="home-text208"></br>
+                      <br className="home-text214"></br>
                       <br></br>
                       <span>
                         Luc Boltanski, Enigmes et complots : Une enquête à
                         propos d’enquêtes, Paris, Gallimard, 2012
                       </span>
-                      <br className="home-text211"></br>
+                      <br className="home-text217"></br>
                       <br></br>
                       <span>
                         Marc Jacquemin et Jérôme Jamin L’histoire que nous
                         faisons. Contre les théories de la manipulation,
                       </span>
-                      <br className="home-text214"></br>
+                      <br className="home-text220"></br>
                       <br></br>
                       <span>
                         Éditions Labor / Éditions Espace de Libertés, 2007
@@ -1168,14 +1218,14 @@ const Home = (props) => {
                           }}
                         />
                       </span>
-                      <br className="home-text217"></br>
+                      <br className="home-text223"></br>
                       <br></br>
                       <span>
                         Nicolas Chevassus-au-Louis, Théories du complot. On nous
                         cache tout, on nous dit rien, Paris, First Editions,
                         2014
                       </span>
-                      <br className="home-text220"></br>
+                      <br className="home-text226"></br>
                       <br></br>
                       <span>
                         Pièces et main d’œuvre, “L’invention de la théorie du
@@ -1186,40 +1236,40 @@ const Home = (props) => {
                         enquête sur la police des populations à l’ère
                         technologique, Paris, éd. L’Échappée, 2008
                       </span>
-                      <br className="home-text224"></br>
+                      <br className="home-text230"></br>
                       <br></br>
                       <span>
                         Pierre-André Taguieff, La foire aux illuminés :
                         ésotérisme, théorie du complot, extrémisme, Paris, Mille
                         et une nuits, 2005
                       </span>
-                      <br className="home-text227"></br>
+                      <br className="home-text233"></br>
                       <br></br>
                       <span>
                         Pierre-André Taguieff, L’imaginaire du complot mondial :
                         aspects d’un mythe moderne, Paris, Éd. Mille et une
                         nuits, 2006 
                       </span>
-                      <br className="home-text230"></br>
+                      <br className="home-text236"></br>
                       <br></br>
                       <span>
                         Richard Hofstadter, Le style paranoïaque. Théories du
                         complot et droite radicale en Amérique, Paris, F.
                         Bourin, 2012
                       </span>
-                      <br className="home-text233"></br>
+                      <br className="home-text239"></br>
                       <br></br>
                       <span>
                         Rob Brotherton, Suspicious Minds: Why we believe
                         conspiracies, Bloomsbury, 2015
                       </span>
-                      <br className="home-text236"></br>
+                      <br className="home-text242"></br>
                       <br></br>
                       <span>
                         Sophie Mazet, Manuel d’autodéfense intellectuelle,
                         Paris, Robert Laffont Éditions, 2015
                       </span>
-                      <br className="home-text239"></br>
+                      <br className="home-text245"></br>
                       <br></br>
                       <span>
                         Véronique Campion-Vincent, La Société parano : Théories
@@ -1235,8 +1285,8 @@ const Home = (props) => {
           </div>
         </div>
         <div id="about" className="home-about">
-          <h1 className="home-text243">Pourquoi ce projet ?</h1>
-          <div className="home-container45">
+          <h1 className="home-text249">Pourquoi ce projet ?</h1>
+          <div className="home-container47">
             <span>
               <span>
                 Ce site a été développé dans le cadre d&apos;une série
@@ -1252,11 +1302,11 @@ const Home = (props) => {
                 href="https://www.facebook.com/justicepaix"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="home-link38"
+                className="home-link40"
               >
                 la branche Bruxelloise de l&apos;ONG Justice &amp; Paix
               </a>
-              <span className="home-text246">.</span>
+              <span className="home-text252">.</span>
               <br></br>
             </span>
             <span>
@@ -1282,11 +1332,11 @@ const Home = (props) => {
                   }}
                 />
               </span>
-              <span className="home-text254">l&apos;excellent </span>
-              <a href="#update_dem" className="home-link39">
+              <span className="home-text260">l&apos;excellent </span>
+              <a href="#update_dem" className="home-link41">
                 upgrade democracy
               </a>
-              <span className="home-text255">.</span>
+              <span className="home-text261">.</span>
               <br></br>
             </span>
             <span>
@@ -1304,11 +1354,11 @@ const Home = (props) => {
               </span>
               <a
                 href="mailto:demystificator@hworld.one?subject="
-                className="home-link40"
+                className="home-link42"
               >
                 demystificator@hworld.one
               </a>
-              <span className="home-text260">.</span>
+              <span className="home-text266">.</span>
               <br></br>
             </span>
             <span>
@@ -1325,12 +1375,12 @@ const Home = (props) => {
                   }}
                 />
               </span>
-              <span className="home-text266">ces </span>
+              <span className="home-text272">ces </span>
               <a
                 href="https://youtu.be/qN1ZaFtIBuI?t=1803"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="home-link41"
+                className="home-link43"
               >
                 belles paroles de Nassim Haram
               </a>
@@ -1338,7 +1388,7 @@ const Home = (props) => {
                 href="https://youtu.be/qN1ZaFtIBuI?t=1803"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="home-link42"
+                className="home-link44"
               >
                 ein
               </a>
@@ -1346,14 +1396,14 @@ const Home = (props) => {
               <br></br>
               <br></br>
               <br></br>
-              <span className="home-text271">Thielen Oscar</span>
+              <span className="home-text277">Thielen Oscar</span>
               <br></br>
             </span>
           </div>
         </div>
         <footer className="home-footer">
           <div className="home-content">
-            <span className="home-text273">Made with 🔥 and coffee </span>
+            <span className="home-text279">Made with 🔥 and coffee </span>
           </div>
         </footer>
       </div>
@@ -2314,7 +2364,7 @@ const Home = (props) => {
           .home-link20 {
             display: contents;
           }
-          .home-text101 {
+          .home-text098 {
             font-weight: 600;
             text-decoration: none;
           }
@@ -2349,8 +2399,7 @@ const Home = (props) => {
           .home-link21 {
             display: contents;
           }
-          .home-text105 {
-            font-style: normal;
+          .home-text103 {
             font-weight: 600;
             text-decoration: none;
           }
@@ -2385,7 +2434,8 @@ const Home = (props) => {
           .home-link22 {
             display: contents;
           }
-          .home-text111 {
+          .home-text107 {
+            font-style: normal;
             font-weight: 600;
             text-decoration: none;
           }
@@ -2420,7 +2470,7 @@ const Home = (props) => {
           .home-link23 {
             display: contents;
           }
-          .home-text115 {
+          .home-text111 {
             font-style: normal;
             font-weight: 600;
             text-decoration: none;
@@ -2456,8 +2506,7 @@ const Home = (props) => {
           .home-link24 {
             display: contents;
           }
-          .home-text119 {
-            font-style: normal;
+          .home-text117 {
             font-weight: 600;
             text-decoration: none;
           }
@@ -2492,7 +2541,7 @@ const Home = (props) => {
           .home-link25 {
             display: contents;
           }
-          .home-text123 {
+          .home-text121 {
             font-style: normal;
             font-weight: 600;
             text-decoration: none;
@@ -2528,7 +2577,7 @@ const Home = (props) => {
           .home-link26 {
             display: contents;
           }
-          .home-text127 {
+          .home-text125 {
             font-style: normal;
             font-weight: 600;
             text-decoration: none;
@@ -2564,7 +2613,7 @@ const Home = (props) => {
           .home-link27 {
             display: contents;
           }
-          .home-text131 {
+          .home-text129 {
             font-style: normal;
             font-weight: 600;
             text-decoration: none;
@@ -2605,45 +2654,6 @@ const Home = (props) => {
             font-weight: 600;
             text-decoration: none;
           }
-          .home-container31 {
-            gap: var(--dl-space-space-threeunits);
-            flex: 0 0 auto;
-            width: 100%;
-            height: auto;
-            display: flex;
-            align-self: flex-start;
-            align-items: flex-start;
-            border-color: var(--dl-color-gray-500);
-            border-width: 1px;
-            flex-direction: column;
-            justify-content: center;
-            border-top-width: 0px;
-            border-left-width: 0px;
-            border-right-width: 0px;
-            border-bottom-width: 0px;
-          }
-          .home-text135 {
-            width: auto;
-            height: var(--dl-size-size-small);
-            font-size: 40px;
-            max-width: 800px;
-            align-self: flex-start;
-            font-style: normal;
-            font-weight: 400;
-            border-color: var(--dl-color-gray-500);
-            border-width: 0px;
-            background-color: rgb(229, 254, 88);
-            border-top-width: 0px;
-            border-bottom-width: 0px;
-          }
-          .home-container32 {
-            gap: var(--dl-space-space-twounits);
-            flex: 0 0 auto;
-            width: 100%;
-            display: flex;
-            align-items: flex-start;
-            flex-direction: column;
-          }
           .home-feature-card24 {
             width: 100%;
             display: flex;
@@ -2665,7 +2675,7 @@ const Home = (props) => {
           .home-feature-card24:hover {
             border-color: #e5fe58;
           }
-          .home-container33 {
+          .home-container31 {
             gap: var(--dl-space-space-unit);
             display: flex;
             align-items: flex-start;
@@ -2675,7 +2685,7 @@ const Home = (props) => {
           .home-link29 {
             display: contents;
           }
-          .home-text136 {
+          .home-text137 {
             font-style: normal;
             font-weight: 600;
             text-decoration: none;
@@ -2701,7 +2711,7 @@ const Home = (props) => {
           .home-feature-card25:hover {
             border-color: #e5fe58;
           }
-          .home-container34 {
+          .home-container32 {
             gap: var(--dl-space-space-unit);
             display: flex;
             align-items: flex-start;
@@ -2711,9 +2721,49 @@ const Home = (props) => {
           .home-link30 {
             display: contents;
           }
-          .home-text141 {
+          .home-text139 {
+            font-style: normal;
             font-weight: 600;
             text-decoration: none;
+          }
+          .home-container33 {
+            gap: var(--dl-space-space-threeunits);
+            flex: 0 0 auto;
+            width: 100%;
+            height: auto;
+            display: flex;
+            align-self: flex-start;
+            align-items: flex-start;
+            border-color: var(--dl-color-gray-500);
+            border-width: 1px;
+            flex-direction: column;
+            justify-content: center;
+            border-top-width: 0px;
+            border-left-width: 0px;
+            border-right-width: 0px;
+            border-bottom-width: 0px;
+          }
+          .home-text141 {
+            width: auto;
+            height: var(--dl-size-size-small);
+            font-size: 40px;
+            max-width: 800px;
+            align-self: flex-start;
+            font-style: normal;
+            font-weight: 400;
+            border-color: var(--dl-color-gray-500);
+            border-width: 0px;
+            background-color: rgb(229, 254, 88);
+            border-top-width: 0px;
+            border-bottom-width: 0px;
+          }
+          .home-container34 {
+            gap: var(--dl-space-space-twounits);
+            flex: 0 0 auto;
+            width: 100%;
+            display: flex;
+            align-items: flex-start;
+            flex-direction: column;
           }
           .home-feature-card26 {
             width: 100%;
@@ -2746,7 +2796,8 @@ const Home = (props) => {
           .home-link31 {
             display: contents;
           }
-          .home-text146 {
+          .home-text142 {
+            font-style: normal;
             font-weight: 600;
             text-decoration: none;
           }
@@ -2781,7 +2832,7 @@ const Home = (props) => {
           .home-link32 {
             display: contents;
           }
-          .home-text151 {
+          .home-text147 {
             font-weight: 600;
             text-decoration: none;
           }
@@ -2816,7 +2867,7 @@ const Home = (props) => {
           .home-link33 {
             display: contents;
           }
-          .home-text155 {
+          .home-text152 {
             font-weight: 600;
             text-decoration: none;
           }
@@ -2851,8 +2902,7 @@ const Home = (props) => {
           .home-link34 {
             display: contents;
           }
-          .home-text160 {
-            font-style: normal;
+          .home-text157 {
             font-weight: 600;
             text-decoration: none;
           }
@@ -2887,8 +2937,7 @@ const Home = (props) => {
           .home-link35 {
             display: contents;
           }
-          .home-text165 {
-            font-style: normal;
+          .home-text161 {
             font-weight: 600;
             text-decoration: none;
           }
@@ -2923,7 +2972,7 @@ const Home = (props) => {
           .home-link36 {
             display: contents;
           }
-          .home-text167 {
+          .home-text166 {
             font-style: normal;
             font-weight: 600;
             text-decoration: none;
@@ -2959,12 +3008,84 @@ const Home = (props) => {
           .home-link37 {
             display: contents;
           }
-          .home-text169 {
+          .home-text171 {
             font-style: normal;
             font-weight: 600;
             text-decoration: none;
           }
+          .home-feature-card33 {
+            width: 100%;
+            display: flex;
+            padding: var(--dl-space-space-unit);
+            position: relative;
+            align-self: flex-start;
+            transition: 0.3s;
+            align-items: flex-start;
+            border-color: var(--dl-color-gray-700);
+            border-style: solid;
+            border-width: 2px;
+            flex-direction: row;
+            justify-content: flex-start;
+            border-top-width: 0px;
+            border-left-width: 2px;
+            border-right-width: 0px;
+            border-bottom-width: 0px;
+          }
+          .home-feature-card33:hover {
+            border-color: #e5fe58;
+          }
           .home-container42 {
+            gap: var(--dl-space-space-unit);
+            display: flex;
+            align-items: flex-start;
+            flex-direction: column;
+            justify-content: flex-start;
+          }
+          .home-link38 {
+            display: contents;
+          }
+          .home-text173 {
+            font-style: normal;
+            font-weight: 600;
+            text-decoration: none;
+          }
+          .home-feature-card34 {
+            width: 100%;
+            display: flex;
+            padding: var(--dl-space-space-unit);
+            position: relative;
+            align-self: flex-start;
+            transition: 0.3s;
+            align-items: flex-start;
+            border-color: var(--dl-color-gray-700);
+            border-style: solid;
+            border-width: 2px;
+            flex-direction: row;
+            justify-content: flex-start;
+            border-top-width: 0px;
+            border-left-width: 2px;
+            border-right-width: 0px;
+            border-bottom-width: 0px;
+          }
+          .home-feature-card34:hover {
+            border-color: #e5fe58;
+          }
+          .home-container43 {
+            gap: var(--dl-space-space-unit);
+            display: flex;
+            align-items: flex-start;
+            flex-direction: column;
+            justify-content: flex-start;
+          }
+          .home-link39 {
+            display: contents;
+          }
+          .home-text175 {
+            font-style: normal;
+            font-weight: 600;
+            text-decoration: none;
+          }
+          .home-container44 {
             gap: var(--dl-space-space-threeunits);
             flex: 0 0 auto;
             width: 100%;
@@ -2981,7 +3102,7 @@ const Home = (props) => {
             border-right-width: 0px;
             border-bottom-width: 0px;
           }
-          .home-text171 {
+          .home-text177 {
             width: auto;
             height: var(--dl-size-size-small);
             font-size: 40px;
@@ -2995,7 +3116,7 @@ const Home = (props) => {
             border-top-width: 0px;
             border-bottom-width: 0px;
           }
-          .home-container43 {
+          .home-container45 {
             gap: var(--dl-space-space-twounits);
             flex: 0 0 auto;
             width: 100%;
@@ -3003,7 +3124,7 @@ const Home = (props) => {
             align-items: flex-start;
             flex-direction: column;
           }
-          .home-feature-card33 {
+          .home-feature-card35 {
             width: 100%;
             display: flex;
             padding: var(--dl-space-space-unit);
@@ -3020,41 +3141,35 @@ const Home = (props) => {
             border-right-width: 0px;
             border-bottom-width: 0px;
           }
-          .home-container44 {
+          .home-container46 {
             gap: var(--dl-space-space-unit);
             display: flex;
             align-items: flex-start;
             flex-direction: column;
             justify-content: flex-start;
           }
-          .home-text172 {
+          .home-text178 {
             font-weight: 400;
           }
-          .home-text183 {
+          .home-text189 {
             font-weight: 400;
           }
-          .home-text187 {
+          .home-text193 {
             font-weight: 400;
           }
-          .home-text191 {
+          .home-text197 {
             font-weight: 400;
           }
-          .home-text194 {
-            font-weight: 400;
-          }
-          .home-text198 {
-            font-weight: 400;
-          }
-          .home-text201 {
+          .home-text200 {
             font-weight: 400;
           }
           .home-text204 {
             font-weight: 400;
           }
-          .home-text208 {
+          .home-text207 {
             font-weight: 400;
           }
-          .home-text211 {
+          .home-text210 {
             font-weight: 400;
           }
           .home-text214 {
@@ -3066,10 +3181,10 @@ const Home = (props) => {
           .home-text220 {
             font-weight: 400;
           }
-          .home-text224 {
+          .home-text223 {
             font-weight: 400;
           }
-          .home-text227 {
+          .home-text226 {
             font-weight: 400;
           }
           .home-text230 {
@@ -3082,6 +3197,12 @@ const Home = (props) => {
             font-weight: 400;
           }
           .home-text239 {
+            font-weight: 400;
+          }
+          .home-text242 {
+            font-weight: 400;
+          }
+          .home-text245 {
             font-weight: 400;
           }
           .home-about {
@@ -3104,7 +3225,7 @@ const Home = (props) => {
             border-right-width: 0px;
             border-bottom-width: 0px;
           }
-          .home-text243 {
+          .home-text249 {
             width: 712px;
             font-size: 54px;
             max-width: 800px;
@@ -3112,7 +3233,7 @@ const Home = (props) => {
             font-style: normal;
             font-weight: 400;
           }
-          .home-container45 {
+          .home-container47 {
             gap: var(--dl-space-space-oneandhalfunits);
             flex: 0 0 auto;
             width: auto;
@@ -3121,22 +3242,22 @@ const Home = (props) => {
             align-items: flex-start;
             flex-direction: column;
           }
-          .home-link38 {
-            text-decoration: underline;
-          }
-          .home-link39 {
-            text-decoration: underline;
-          }
           .home-link40 {
-            text-decoration: underline;
-          }
-          .home-text266 {
             text-decoration: underline;
           }
           .home-link41 {
             text-decoration: underline;
           }
           .home-link42 {
+            text-decoration: underline;
+          }
+          .home-text272 {
+            text-decoration: underline;
+          }
+          .home-link43 {
+            text-decoration: underline;
+          }
+          .home-link44 {
             text-decoration: underline;
           }
           .home-footer {
@@ -3236,16 +3357,16 @@ const Home = (props) => {
             .home-text093 {
               font-size: 32px;
             }
-            .home-text119 {
+            .home-text125 {
               text-decoration: none;
             }
-            .home-text135 {
+            .home-text141 {
               font-size: 32px;
             }
-            .home-text151 {
+            .home-text157 {
               text-decoration: none;
             }
-            .home-text171 {
+            .home-text177 {
               font-size: 32px;
             }
             .home-about {
@@ -3260,53 +3381,53 @@ const Home = (props) => {
               animation-iteration-count: 1;
               animation-timing-function: ease;
             }
-            .home-text243 {
+            .home-text249 {
               font-size: 32px;
               font-style: normal;
               font-weight: 400;
             }
-            .home-container45 {
+            .home-container47 {
               width: auto;
               height: auto;
               align-self: flex-start;
             }
-            .home-link38 {
-              text-decoration: inherit;
-              background-color: rgb(229, 254, 88);
-            }
-            .home-text246 {
-              text-decoration: inherit;
-            }
-            .home-text254 {
-              color: var(--dl-color-gray-black);
-            }
-            .home-link39 {
-              color: var(--dl-color-gray-black);
-              text-decoration: underline;
-              background-color: rgb(229, 254, 88);
-            }
-            .home-text255 {
-              color: var(--dl-color-gray-black);
-            }
             .home-link40 {
-              color: var(--dl-color-gray-black);
-              text-decoration: underline;
+              text-decoration: inherit;
               background-color: rgb(229, 254, 88);
+            }
+            .home-text252 {
+              text-decoration: inherit;
             }
             .home-text260 {
               color: var(--dl-color-gray-black);
-              text-decoration: underline;
-              background-color: rgb(229, 254, 88);
             }
             .home-link41 {
+              color: var(--dl-color-gray-black);
               text-decoration: underline;
               background-color: rgb(229, 254, 88);
+            }
+            .home-text261 {
+              color: var(--dl-color-gray-black);
             }
             .home-link42 {
+              color: var(--dl-color-gray-black);
               text-decoration: underline;
               background-color: rgb(229, 254, 88);
             }
-            .home-text271 {
+            .home-text266 {
+              color: var(--dl-color-gray-black);
+              text-decoration: underline;
+              background-color: rgb(229, 254, 88);
+            }
+            .home-link43 {
+              text-decoration: underline;
+              background-color: rgb(229, 254, 88);
+            }
+            .home-link44 {
+              text-decoration: underline;
+              background-color: rgb(229, 254, 88);
+            }
+            .home-text277 {
               text-transform: capitalize;
             }
             .home-footer {
@@ -3323,7 +3444,7 @@ const Home = (props) => {
               flex-direction: column;
               padding-bottom: var(--dl-space-space-threeunits);
             }
-            .home-text273 {
+            .home-text279 {
               align-self: center;
             }
           }
@@ -3530,13 +3651,13 @@ const Home = (props) => {
             .home-feature-card24 {
               flex-direction: row;
             }
-            .home-container33 {
+            .home-container31 {
               flex-direction: column;
             }
             .home-feature-card25 {
               flex-direction: row;
             }
-            .home-container34 {
+            .home-container32 {
               flex-direction: column;
             }
             .home-feature-card26 {
@@ -3584,7 +3705,19 @@ const Home = (props) => {
             .home-feature-card33 {
               flex-direction: row;
             }
-            .home-container44 {
+            .home-container42 {
+              flex-direction: column;
+            }
+            .home-feature-card34 {
+              flex-direction: row;
+            }
+            .home-container43 {
+              flex-direction: column;
+            }
+            .home-feature-card35 {
+              flex-direction: row;
+            }
+            .home-container46 {
               flex-direction: column;
             }
             .home-about {
@@ -3675,10 +3808,10 @@ const Home = (props) => {
             .home-container30 {
               flex-direction: column;
             }
-            .home-container33 {
+            .home-container31 {
               flex-direction: column;
             }
-            .home-container34 {
+            .home-container32 {
               flex-direction: column;
             }
             .home-container35 {
@@ -3702,7 +3835,13 @@ const Home = (props) => {
             .home-container41 {
               flex-direction: column;
             }
-            .home-container44 {
+            .home-container42 {
+              flex-direction: column;
+            }
+            .home-container43 {
+              flex-direction: column;
+            }
+            .home-container46 {
               flex-direction: column;
             }
           }
