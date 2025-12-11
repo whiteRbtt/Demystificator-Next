@@ -1,28 +1,29 @@
 import React from 'react'
 
 import PropTypes from 'prop-types'
+import { useTranslations } from 'next-intl'
 
 const NavLinks = (props) => {
   return (
     <>
-      <div className={`nav-links-links ${props.rootClassName} `}>
+      <div className={`nav-links-thq-links-elm ${props.rootClassName} `}>
         <span className="navLink">{props.link}</span>
       </div>
       <style jsx>
         {`
-          .nav-links-links {
-            gap: var(--dl-space-space-twounits);
+          .nav-links-thq-links-elm {
+            gap: var(--dl-layout-space-twounits);
             display: flex;
             position: relative;
             align-items: center;
             flex-direction: row;
             justify-content: center;
           }
-          .nav-links-root-class-name {
+          .nav-linksroot-class-name {
             align-self: center;
           }
           @media (max-width: 767px) {
-            .nav-links-links {
+            .nav-links-thq-links-elm {
               display: none;
             }
           }
